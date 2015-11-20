@@ -64,6 +64,7 @@
 % draft mode.
 %
 \documentclass[journal]{IEEEtran}
+\usepackage{apacite}
 \usepackage{blindtext}
 \usepackage{graphicx}
 
@@ -461,8 +462,9 @@ GA, 30332 USA e-mail: (see http://www.michaelshell.org/contact.html).}% <-this %
 
 
 \begin{abstract}
-%\boldmath
-\blindtext[1]
+\boldmath
+Modern interactive museums offer visitors a dynamic learning environment, promoting exploration and encourage the excitement of discovery as visitors learn new concepts, as they are free to interact with the exhibits. In this paper we propose an architecture for an interactive learning environment (ILE) using a collection of commodity devices: a set of displays where different content is presented, a set of mobile devices for each visitor to interact and a Kinect sensor. The engagement affective state is predicted using various classifiers and a database of readings from the Kinect sensor. The architecture also addresses the problem of content distribution among devices.  A case study of an interactive exhibit held in classrooms. The participants were students of Technologic Institute of Tijuana. Experimental results show that the proposed approach can predict the engagement affective state.
+
 \end{abstract}
 % IEEEtran.cls defaults to using nonbold math in the Abstract.
 % This preserves the distinction between vectors and scalars. However,
@@ -494,11 +496,22 @@ IEEEtran, journal, \LaTeX, paper, template.
 
 
 \section{Introduction}
-\blindtext
+
+
+A museum is a public or private institution at the service of the society and its development. These exhibit sets of objects and information that reflect some aspect of human existence or its environment. The museum dates back to the Greco-Roman period, since museums have undergone many changes in terms of how to present the information thanks to technological advances that have emerged, this change has been most noticeable in the last century to date.
+
+In addition to technology there are new techniques and methods to improve the user experience in these museums as interaction, user preferences, virtual and mixed realities among others. Since its beginnings the main objective of museums has been to preserve the cultural heritage, but also make information shown attractive to public in general, this part is a big challenge because each person thinks and assimilates information differently and one of the ways to solve this problem is by making the content adaptive.
+Interactive museums have been multiplying in recent year, many of which the idea of attracting the public using new technologies, currently there are studies that seek ways to solve the problem of making more attractive exhibits for the museum visitors as it does (aoki 2002; aoki 2002) where their electronic guidebook allows users to share auditory information (They hear each other) using a technologically mediated audio eavesdropping mechanism.
+
+Reilly 2007 uses another approach oriented towards audio-visual experience where literary information shows through high large screens where the user can interact with the museum with touch screens.Others besides dealing with how to present information have involved more with the user from using their personal information to use methods to predict the state of mind. In affective computing there are several affective states but one that goes hand in hand with learning which is the engagement, like all state of mind is difficult to identify.Allen tell us how to design exhibits and how not make it anti-engagement like using lots of content in multiple displays.   
+In this paper we propose the architecture of an interactive environment which consists of the distribution of multimedia content in an exhibit where the content is displayed in sets of learning objects which we call environmental learning object, a simple sequenced implementation which will make the task of a museum guide establishing the order of the learning activities. And finally we use the second-generation Kinect sensor to capture video of the user and predict an emotion based on this catalog the exhibition state as something that engages the user or something that does not engage the user. To test this architecture we conducted an experiment in an interactive museum where we generate a learning activity, at the end of the activity we surveyed the user to obtain information from the user experience and affective state and compare it against the pronostic of the affective state and identify the least interesting activities.
 
 \subsection{Subsection Heading Here}
-\blindtext
-
+\section {Literature Review}
+\subsection {Interactive museums}
+\subsection {Affective Computing}
+\subsection {Learning Objects}
+\subsection {Kinect 2.0}
 % needed in second column of first page if using \IEEEpubid
 %\IEEEpubidadjcol
 
@@ -649,6 +662,8 @@ The authors would like to thank...
 % <OR> manually copy in the resultant .bbl file
 % set second argument of \begin to the number of references
 % (used to reserve space for the reference number labels box)
+
+
 \begin{thebibliography}{1}
 
 \bibitem{IEEEhowto:kopka}

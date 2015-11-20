@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=latex 2015.9.27)  13 NOV 2015 15:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=latex 2015.9.27)  19 NOV 2015 17:08
 entering extended mode
 **main.tex
 (main.tex
@@ -88,30 +88,39 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
 \@IEEEtmpitemindent=\dimen116
 \c@IEEEbiography=\count90
 \@IEEEtranrubishbin=\box26
-) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\blindtext\blindtext.sty"
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\apacite\apacite.sty"
+Package: apacite 2013/07/21 v6.03 APA citation
+\c@BibCnt=\count91
+\bibleftmargin=\skip44
+\bibindent=\skip45
+\bibparsep=\skip46
+\bibitemsep=\skip47
+\biblabelsep=\skip48
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\blindtext\blindtext.sty"
 Package: blindtext 2012/01/06 V2.0 blindtext-Package
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\xspace.sty"
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
-\c@blindtext=\count91
-\c@Blindtext=\count92
-\c@blind@countparstart=\count93
-\blind@countxx=\count94
-\blindtext@numBlindtext=\count95
-\blind@countyy=\count96
-\c@blindlist=\count97
-\c@blindlistlevel=\count98
-\c@blindlist@level=\count99
-\blind@listitem=\count100
-\c@blind@listcount=\count101
-\c@blind@levelcount=\count102
-\blind@mathformula=\count103
-\blind@Mathformula=\count104
-\c@blind@randomcount=\count105
-\c@blind@randommax=\count106
-\c@blind@pangramcount=\count107
-\c@blind@pangrammax=\count108
+\c@blindtext=\count92
+\c@Blindtext=\count93
+\c@blind@countparstart=\count94
+\blind@countxx=\count95
+\blindtext@numBlindtext=\count96
+\blind@countyy=\count97
+\c@blindlist=\count98
+\c@blindlistlevel=\count99
+\c@blindlist@level=\count100
+\blind@listitem=\count101
+\c@blind@listcount=\count102
+\c@blind@levelcount=\count103
+\blind@mathformula=\count104
+\blind@Mathformula=\count105
+\c@blind@randomcount=\count106
+\c@blind@randommax=\count107
+\c@blind@pangramcount=\count108
+\c@blind@pangrammax=\count109
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
@@ -137,41 +146,67 @@ File: dvips.def 2014/10/14 v3.0j Driver-dependent file (DPC,SPQR)
 \Gin@req@height=\dimen117
 \Gin@req@width=\dimen118
 ) (main.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 386.
-LaTeX Font Info:    ... okay on input line 386.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 386.
-LaTeX Font Info:    ... okay on input line 386.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 386.
-LaTeX Font Info:    ... okay on input line 386.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 386.
-LaTeX Font Info:    ... okay on input line 386.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 386.
-LaTeX Font Info:    ... okay on input line 386.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 386.
-LaTeX Font Info:    ... okay on input line 386.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 387.
+LaTeX Font Info:    ... okay on input line 387.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 387.
+LaTeX Font Info:    ... okay on input line 387.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 387.
+LaTeX Font Info:    ... okay on input line 387.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 387.
+LaTeX Font Info:    ... okay on input line 387.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 387.
+LaTeX Font Info:    ... okay on input line 387.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 387.
+LaTeX Font Info:    ... okay on input line 387.
+\c@maskedRefs=\count110
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\apacite\english.apc"
+File: english.apc 2013/07/21 v6.03 apacite language file
+LaTeX Info: Redefining \BPBI on input line 129.
+LaTeX Info: Redefining \BHBI on input line 130.
+)
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 476.
+(Font)              <7> on input line 468.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 476.
+(Font)              <5> on input line 468.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 476.
+(Font)              <9> on input line 478.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 478.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 476.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 655.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 690.
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 478.
  [1
 
 
+]
+! Undefined control sequence.
+<argument> \@listctr 
+                     
+l.669 \bibitem{IEEEhowto:kopka}
+                               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+                    
+l.669 \bibitem{IEEEhowto:kopka}
+                               
+I'm forgetting what you said and using zero instead.
+
+[2
+
 ] (main.aux) ) 
 Here is how much of TeX's memory you used:
- 1402 strings out of 493674
- 22750 string characters out of 3141544
- 83250 words of memory out of 3000000
- 4793 multiletter control sequences out of 15000+200000
- 29172 words of font info for 66 fonts, out of 3000000 for 9000
+ 1841 strings out of 493674
+ 28335 string characters out of 3141544
+ 93345 words of memory out of 3000000
+ 5227 multiletter control sequences out of 15000+200000
+ 27712 words of font info for 62 fonts, out of 3000000 for 9000
  1028 hyphenation exceptions out of 8191
- 29i,7n,19p,207b,208s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 26i,7n,19p,954b,191s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on main.dvi (1 page, 6116 bytes).
+Output written on main.dvi (2 pages, 8764 bytes).
