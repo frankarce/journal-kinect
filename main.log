@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=latex 2015.9.27)  19 NOV 2015 17:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=latex 2015.9.27)  25 NOV 2015 16:45
 entering extended mode
 **main.tex
 (main.tex
@@ -175,38 +175,45 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 478.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <6> not available
 (Font)              Font shape `OT1/ptm/b/it' tried instead on input line 478.
+Missing character: There is no Ã in font ptmr7t!
+Missing character: There is no ¡ in font ptmr7t!
+Missing character: There is no Ã in font ptmr7t!
+Missing character: There is no ­ in font ptmr7t!
+Missing character: There is no Ã in font ptmr7t!
+Missing character: There is no ³ in font ptmr7t!
+Missing character: There is no Ã in font ptmr7t!
+Missing character: There is no ¡ in font ptmr7t!
+Missing character: There is no Ã in font ptmr7t!
+Missing character: There is no ¡ in font ptmr7t!
+Missing character: There is no Ã in font ptmr7t!
+Missing character: There is no ­ in font ptmr7t!
+Missing character: There is no Ã in font ptmr7t!
+Missing character: There is no © in font ptmr7t!
+Missing character: There is no Ã in font ptmr7t!
+Missing character: There is no ¡ in font ptmr7t!
+Missing character: There is no Ã in font ptmr7t!
+Missing character: There is no ­ in font ptmr7t!
+Missing character: There is no Ã in font ptmr7t!
+Missing character: There is no ­ in font ptmr7t!
+Missing character: There is no Ã in font ptmr7t!
+Missing character: There is no ­ in font ptmr7t!
  [1
 
 
 ]
-! Undefined control sequence.
-<argument> \@listctr 
-                     
-l.669 \bibitem{IEEEhowto:kopka}
-                               
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-! You can't use `\relax' after \the.
-<recently read> \c@ 
-                    
-l.669 \bibitem{IEEEhowto:kopka}
-                               
-I'm forgetting what you said and using zero instead.
+LaTeX Warning: Empty `thebibliography' environment on input line 675.
 
 [2
 
 ] (main.aux) ) 
 Here is how much of TeX's memory you used:
- 1841 strings out of 493674
- 28335 string characters out of 3141544
+ 1838 strings out of 493674
+ 28299 string characters out of 3141544
  93345 words of memory out of 3000000
- 5227 multiletter control sequences out of 15000+200000
+ 5224 multiletter control sequences out of 15000+200000
  27712 words of font info for 62 fonts, out of 3000000 for 9000
  1028 hyphenation exceptions out of 8191
  26i,7n,19p,954b,191s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on main.dvi (2 pages, 8764 bytes).
+Output written on main.dvi (2 pages, 9320 bytes).
