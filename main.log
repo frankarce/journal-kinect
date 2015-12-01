@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=latex 2015.9.27)  27 NOV 2015 12:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.11.30)  30 NOV 2015 15:24
 entering extended mode
 **main.tex
 (main.tex
@@ -19,7 +19,7 @@ LaTeX Font Info:    Try loading font information for OT1+ptm on input line 373.
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 -- Using 8.5in x 11in (letter) paper.
--- Using DVI output.
+-- Using PDF output.
 \@IEEEnormalsizeunitybaselineskip=\dimen104
 -- This is a 10 point document.
 \CLASSINFOnormalsizebaselineskip=\dimen105
@@ -138,43 +138,65 @@ Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
 File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
-Package graphics Info: Driver file: dvips.def on input line 94.
+Package graphics Info: Driver file: pdftex.def on input line 94.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\dvips.def"
-File: dvips.def 2014/10/14 v3.0j Driver-dependent file (DPC,SPQR)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count110
 ))
 \Gin@req@height=\dimen117
 \Gin@req@width=\dimen118
 ) (main.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 387.
-LaTeX Font Info:    ... okay on input line 387.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 387.
-LaTeX Font Info:    ... okay on input line 387.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 387.
-LaTeX Font Info:    ... okay on input line 387.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 387.
-LaTeX Font Info:    ... okay on input line 387.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 387.
-LaTeX Font Info:    ... okay on input line 387.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 387.
-LaTeX Font Info:    ... okay on input line 387.
-\c@maskedRefs=\count110
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 264.
+LaTeX Font Info:    ... okay on input line 264.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 264.
+LaTeX Font Info:    ... okay on input line 264.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 264.
+LaTeX Font Info:    ... okay on input line 264.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 264.
+LaTeX Font Info:    ... okay on input line 264.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 264.
+LaTeX Font Info:    ... okay on input line 264.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 264.
+LaTeX Font Info:    ... okay on input line 264.
+\c@maskedRefs=\count111
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\apacite\english.apc"
 File: english.apc 2013/07/21 v6.03 apacite language file
 LaTeX Info: Redefining \BPBI on input line 129.
 LaTeX Info: Redefining \BHBI on input line 130.
 )
+("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count112
+\scratchdimen=\dimen119
+\scratchbox=\box27
+\nofMPsegments=\count113
+\nofMParguments=\count114
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count115
+\MPscratchDim=\dimen120
+\MPnumerator=\count116
+\makeMPintoPDFobject=\count117
+\everyMPtoPDFconversion=\toks17
+)
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 468.
+(Font)              <7> on input line 333.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 468.
+(Font)              <5> on input line 333.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 478.
+(Font)              <9> on input line 343.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 478.
+(Font)              <6> on input line 343.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 478.
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 343.
 Missing character: There is no Ã in font ptmr7t!
 Missing character: There is no ¡ in font ptmr7t!
 Missing character: There is no Ã in font ptmr7t!
@@ -197,23 +219,42 @@ Missing character: There is no Ã in font ptmr7t!
 Missing character: There is no ­ in font ptmr7t!
 Missing character: There is no Ã in font ptmr7t!
 Missing character: There is no ­ in font ptmr7t!
- [1
+ [1{C:/Users/francisco/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
 ]
 
-LaTeX Warning: Empty `thebibliography' environment on input line 678.
+LaTeX Warning: File `C:/Users/francisco/Dropbox/tesis doc/art kinect/journal kinect/images/frenteexhi.PNG' not found on 
+input line 387.
 
-[2
 
-] (main.aux) ) 
+<C:/Users/francisco/Dropbox/tesis doc/art kinect/journal kinect/images/frenteexhi.PNG, id=9, 233.37187pt x 286.06876pt>
+File: C:/Users/francisco/Dropbox/tesis doc/art kinect/journal kinect/images/frenteexhi.PNG Graphic file (type png)
+
+<use C:/Users/francisco/Dropbox/tesis doc/art kinect/journal kinect/images/frenteexhi.PNG>
+Package pdftex.def Info: C:/Users/francisco/Dropbox/tesis doc/art kinect/journal kinect/images/frenteexhi.PNG used on in
+put line 387.
+(pdftex.def)             Requested size: 233.37129pt x 286.06805pt.
+
+
+LaTeX Warning: Empty `thebibliography' environment on input line 555.
+
+[2 <C:/Users/francisco/Dropbox/tesis doc/art kinect/journal kinect/images/frenteexhi.PNG>] (main.aux) ) 
 Here is how much of TeX's memory you used:
- 1838 strings out of 493674
- 28299 string characters out of 3141544
- 93345 words of memory out of 3000000
- 5224 multiletter control sequences out of 15000+200000
- 27712 words of font info for 62 fonts, out of 3000000 for 9000
+ 2443 strings out of 493673
+ 37039 string characters out of 3141517
+ 103802 words of memory out of 3000000
+ 5800 multiletter control sequences out of 15000+200000
+ 40887 words of font info for 74 fonts, out of 3000000 for 9000
  1028 hyphenation exceptions out of 8191
- 26i,7n,19p,954b,191s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,7n,19p,954b,191s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files
+ (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C
+:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/ti
+mes/utmr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (2 pages, 336304 bytes).
+PDF statistics:
+ 27 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-Output written on main.dvi (2 pages, 10208 bytes).
