@@ -64,9 +64,10 @@
 % draft mode.
 %
 \documentclass[journal]{IEEEtran}
-\usepackage{apacite}
+
 \usepackage{blindtext}
 \usepackage{graphicx}
+\usepackage{biblatex}
 \graphicspath{ {images/} }
 % Some very useful LaTeX packages include:
 % (uncomment the ones you want to load)
@@ -265,14 +266,11 @@
 \title{Measuring the engagement of a museum visitor in interactive museum exhibits}
 %
 
-\author{Michael~Shell,~\IEEEmembership{Member,~IEEE,}
-        John~Doe,~\IEEEmembership{Fellow,~OSA,}
-        and~Jane~Doe,~\IEEEmembership{Life~Fellow,~IEEE}% <-this % stops a space
-\thanks{M. Shell is with the Department
-of Electrical and Computer Engineering, Georgia Institute of Technology, Atlanta,
-GA, 30332 USA e-mail: (see http://www.michaelshell.org/contact.html).}% <-this % stops a space
-\thanks{J. Doe and J. Doe are with Anonymous University.}% <-this % stops a space
-\thanks{Manuscript received April 19, 2005; revised January 11, 2007.}}
+\author{Francisco~Arce,
+        Mario~Garcia
+        % <-this % stops a space
+\thanks{Pending}% <-this % stops a space
+}
 
 % note the % following the last \IEEEmembership and also \thanks - 
 % these prevent an unwanted space from occurring between the last author name
@@ -295,7 +293,7 @@ GA, 30332 USA e-mail: (see http://www.michaelshell.org/contact.html).}% <-this %
 
 
 % The paper headers
-\markboth{Journal of \LaTeX\ Class Files,~Vol.~6, No.~1, January~2007}%
+\markboth{Journal of Class Files,~Vol.~6, No.~1, February~2016}%
 {Shell \MakeLowercase{\textit{et al.}}: Bare Demo of IEEEtran.cls for Journals}
 % The only time the second header will appear is for the odd numbered pages
 % after the title page when using the twoside option.
@@ -340,7 +338,7 @@ Modern interactive museums offer visitors a dynamic learning environment, promot
 
 % Note that keywords are not normally used for peerreview papers.
 \begin{IEEEkeywords}
-IEEEtran, journal, \LaTeX, paper, template.
+Interactive, Environment, Kinect 2.0, Affective.
 \end{IEEEkeywords}
 
 
@@ -371,26 +369,50 @@ Interactive museums have been multiplying in recent year, many of which the idea
 Reilly 2007 uses another approach oriented towards audio-visual experience where literary information shows through high large screens where the user can interact with the museum with touch screens.Others besides dealing with how to present information have involved more with the user from using their personal information to use methods to predict the state of mind. In affective computing there are several affective states but one that goes hand in hand with learning which is the engagement, like all state of mind is difficult to identify.Allen tell us how to design exhibits and how not make it anti-engagement like using lots of content in multiple displays.   
 In this paper we propose the architecture of an interactive environment which consists of the distribution of multimedia content in an exhibit where the content is displayed in sets of learning objects which we call environmental learning object, a simple sequenced implementation which will make the task of a museum guide establishing the order of the learning activities. And finally we use the second-generation Kinect sensor to capture video of the user and predict an emotion based on this catalog the exhibition state as something that engages the user or something that does not engage the user. To test this architecture we conducted an experiment in an interactive museum where we generate a learning activity, at the end of the activity we surveyed the user to obtain information from the user experience and affective state and compare it against the pronostic of the affective state and identify the least interesting activities.
 
-\subsection{Subsection Heading Here}
+
 \section {Background}
 
 \subsection {Interactive museums}
-Los Museos en la actualidad están explorando las nuevas tecnologías digitales y móviles para mejorar la experiencia del visitante. Iniciativas van más allá de la tecnología dentro de exposiciones e instalaciones , pero también incluyen usos más generalizados de la tecnología para crear experiencias interactivas para los visitantes a lo largo de un museo , así como experiencias a distancia para los que no pueden llegar hasta allí.
+Museums at the present are exploring new digital and mobile technologies to enhance the visitor experience. Initiatives go beyond technology within exhibits, but also include more widespread use of technology to create interactive experiences for visitors throughout a museum and remote experiences for those who can not get there.
+\subsection {Intelligent Learning Environments}
+Intelligent Learning Environments (ILE) are based in learning environments where students and teachers can create knowledge. In other words, the environment represents a cognitive space for a learning community. The ILE seeks to provide adaptive navigation and adaptive sequencing as is commented on  \cite{rondon89}, [10] and [15].The adaptive navigation presents the content of a course in optimized order, where the optimization criteria takes into consideration the learner's backgrounds and performance, whereas adaptive sequencing is defined as the process for selection of learning objects from a digital repository and sequencing them in a way which is appropriated for the targeted learning community or individuals. 
 \subsection {Affective Computing}
+Affective computing is the human-computer interaction in which a device has the ability to detect and respond to the emotions of the user and other stimulus properly. A computing device with this capability could gather the signals to the user emotion from a variety of sources. Facial expressions, posture, gestures, speech, strength and pace of keystrokes and temperature changes of hand on a mouse all can mean changes in the emotional state of the user, and these can be detected and interpreted by a computer. A camera is used to capture images of the user and the data is processed algorithms to produce meaningful information. Voice recognition and gesture recognition are some of the other technologies being explored for affective computing applications.
 \subsection {Learning Objects}
-\subsection {Kinect 2.0}
-\section {Method}
-To explore the impact of the exhibit on the users, a convenience sample of 40 students and teachers of Tecnologico de Tijuana aged between 18 and 40 years where the most frequent age was 19 years was undertaken. Participating students completed the activity shown on the exhibit. Which consisted of two videos with the themes of video games and movies, users used the display for a period of 4 minutes 20 users on the first day and 2 on the second day. Each user was shot with a film camera and a special camera that takes additional attributes like engagement , if not watching the display and positions of the eyes or mouth .
 
-\begin{figure}
+
+\subsection {Kinect 2.0}
+
+\section {Method}
+\section {Study Case}
+As a case study we conduct 2 experiments the first to test the acceptance of different types of users in the environment, The first experiment took place in the interactive museum "El Trompo" of Tijuana where the user was introduced in an environment which had to perform a sequence of activities and at the end of the activity was a survey below is explains in detail each of the parts of the experiment.
+The technological part of the experiment (Devices) consisted of 3 projectors, 2 computers, one tablet and headphones como se observa en las figuras 1 y 2.
+\begin{figure}[ht]
 	\centering
-		\includegraphics{C:/Users/francisco/Dropbox/tesis doc/art kinect/journal kinect/images/frenteexhi.PNG}
-		\label{fig:Figure 1}
-	Fig 1. Front display.
+	\includegraphics [width=90mm] {tromp.PNG}
+	\label{fig:Figure 1}
+	Fig 1. User interacting with the environment.
+\end{figure}
+Users who participated in the experiment consisted of a set of 21 users between the ages of 6 and 48 years. divided into 2 sets the first 11 users with 11 or more years and the second set with users under 11 years. the reason to separate them at this age because the environment was showed different information depending on the age of users.
+\begin{figure}[ht]
+	\centering
+	\includegraphics [width=90mm]{tromp2.PNG}
+	\label{fig:Figure 2}
+	Fig 2. Front view.
+\end{figure}
+The theme chosen for use in the activity was determined for the following reasons, was an early date to a holiday about children called "El dia del niño" and we think of something that will raise awareness of children that affects the world. So we prepare the "Water" as its main theme where information was displayed as the care that must be taken with water, in that it benefits, health, pollution, energy producing, etc.
+
+The second experiment was to explore the impact of the exhibit on the users, a convenience sample of 40 students and teachers of Tecnologico de Tijuana aged between 18 and 40 years where the most frequent age was 19 years was undertaken. Participating students completed the activity shown on the exhibit. Which consisted of two videos with the themes of video games and movies, users used the display for a period of 4 minutes 20 users on the first day and 2 on the second day. Each user was shot with a film camera and a special camera that takes additional attributes like engagement , if not watching the display and positions of the eyes or mouth .
+
+\begin{figure}[ht]
+	\centering
+	\includegraphics [width=90mm] {frenteexhi.PNG}
+	\label{fig:Figure 3}
+	Fig 3. Front display.
 \end{figure}
 
  
-There's a picture of a galaxy above
+
 
 \section {Results}
 % needed in second column of first page if using \IEEEpubid
@@ -481,7 +503,7 @@ There's a picture of a galaxy above
 
 
 \section{Conclusion}
-\blindtext
+Conclusion aqui.
 
 
 
@@ -545,14 +567,17 @@ The authors would like to thank...
 % (used to reserve space for the reference number labels box)
 
 
-\begin{thebibliography}{1}
+\begin{thebibliography}{9}
+\bibitem{les85} Leslie Lamport, 1985. \emph{\LaTeX---A Document
+Preparation System---User’s Guide and Reference Manual},
+Addision-Wesley, Reading.
+\bibitem{don89} Donald E. Knuth, 1989. \emph{Typesetting Concrete
+Mathematics}, TUGBoat, 10(1):31-36.
 
-
-H.~Kopka and P.~W. Daly, \emph{A Guide to \LaTeX}, 3rd~ed.\hskip 1em plus
-  0.5em minus 0.4em\relax Harlow, England: Addison-Wesley, 1999.
-
+\bibitem{rondon89} Ronald L. Graham, Donald E. Knuth, and Ore
+Patashnik, 1989. \emph{Concrete Mathematics: A Foundation for
+Computer Science}, Addison-Wesley, Reading.
 \end{thebibliography}
-
 % biography section
 % 
 % If you have an EPS/PDF photo (graphicx package needed) extra braces are
