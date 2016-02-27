@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.11.30)  23 FEB 2016 22:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.11.30)  27 FEB 2016 16:21
 entering extended mode
 **main.tex
 (main.tex
@@ -430,20 +430,7 @@ LaTeX Warning: Citation 'rondon89' on page 1 undefined on input line 378.
 [1{C:/Users/francisco/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
-]
-Missing character: There is no Ã in font ptmr7t!
-Missing character: There is no ± in font ptmr7t!
-Missing character: There is no Ã in font ptmr7t!
-Missing character: There is no ± in font ptmr7t!
-Missing character: There is no Ã in font ptmr7t!
-Missing character: There is no ± in font ptmr7t!
-Missing character: There is no Ã in font ptmr7t!
-Missing character: There is no ± in font ptmr7t!
-Missing character: There is no Ã in font ptmr7t!
-Missing character: There is no ± in font ptmr7t!
-Missing character: There is no Ã in font ptmr7t!
-Missing character: There is no ± in font ptmr7t!
- <tromp.PNG, id=9, 536.7252pt x 302.5704pt>
+] <tromp.PNG, id=9, 536.7252pt x 302.5704pt>
 File: tromp.PNG Graphic file (type png)
 
 <use tromp.PNG>
@@ -454,41 +441,32 @@ Overfull \hbox (3.02493pt too wide) in paragraph at lines 403--406
  [][] 
  []
 
-<tromp2.PNG, id=11, 497.2176pt x 399.6531pt>
-File: tromp2.PNG Graphic file (type png)
- <use tromp2.PNG>
-Package pdftex.def Info: tromp2.PNG used on input line 410.
-(pdftex.def)             Requested size: 256.0748pt x 205.83888pt.
-
-Overfull \hbox (3.02493pt too wide) in paragraph at lines 410--413
- [][] 
- []
-
-Missing character: There is no Ã in font ptmr7t!
-Missing character: There is no ± in font ptmr7t!
-[2 <./tromp.PNG>] <frenteexhi.PNG, id=16, 233.37187pt x 286.06876pt>
+<frenteexhi.PNG, id=11, 233.37187pt x 286.06876pt>
 File: frenteexhi.PNG Graphic file (type png)
  <use frenteexhi.PNG>
-Package pdftex.def Info: frenteexhi.PNG used on input line 420.
-(pdftex.def)             Requested size: 256.0748pt x 313.93454pt.
+Package pdftex.def Info: frenteexhi.PNG used on input line 414.
+(pdftex.def)             Requested size: 227.63101pt x 227.62436pt.
+ [2 <./tromp.PNG> <./frenteexhi.PNG>]
+<tromp2.PNG, id=17, 497.2176pt x 399.6531pt>
+File: tromp2.PNG Graphic file (type png)
+ <use tromp2.PNG>
+Package pdftex.def Info: tromp2.PNG used on input line 442.
+(pdftex.def)             Requested size: 256.0748pt x 205.83888pt.
 
-Overfull \hbox (3.02493pt too wide) in paragraph at lines 420--423
+Overfull \hbox (3.02493pt too wide) in paragraph at lines 442--445
  [][] 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 583.
+(Font)              <8> on input line 607.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 583.
+(Font)              <6> on input line 607.
 Missing character: There is no â in font ptmri7t!
 Missing character: There is no € in font ptmri7t!
 Missing character: There is no ™ in font ptmri7t!
-[3 <./tromp2.PNG> <./frenteexhi.PNG>] (main.aux)
+[3 <./tromp2.PNG>] (main.aux)
 
 LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 
 Package biblatex Warning: Please (re)run Biber on the file:
@@ -504,13 +482,14 @@ Here is how much of TeX's memory you used:
  10874 multiletter control sequences out of 15000+200000
  39835 words of font info for 73 fonts, out of 3000000 for 9000
  1028 hyphenation exceptions out of 8191
- 44i,6n,32p,1128b,912s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/
-times/utmb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Program Files (x86)/MiKTeX 2.9
-/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (3 pages, 3369348 bytes).
+ 44i,6n,32p,1164b,912s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files (x86)/Mi
+KTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Progr
+am Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (3 pages, 3376599 bytes).
 PDF statistics:
- 35 PDF objects out of 1000 (max. 8388607)
+ 39 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
