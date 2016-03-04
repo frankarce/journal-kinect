@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.11.30)  27 FEB 2016 16:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.11.30)  4 MAR 2016 11:08
 entering extended mode
 **main.tex
 (main.tex
@@ -374,41 +374,49 @@ Package biblatex Info: ... file 'biblatex.cfg' found.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\biblatex.cfg"
 File: biblatex.cfg 
 )))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count228
+\float@exts=\toks16
+\float@box=\box27
+\@float@everytoks=\toks17
+\@floatcapt=\box28
+)
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\lbx\english.lbx"
 File: english.lbx 2015/12/22 v3.2 biblatex localization (PK/JW/AB)
 )
-\@quotelevel=\count228
-\@quotereset=\count229
+\@quotelevel=\count229
+\@quotereset=\count230
  (main.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 265.
-LaTeX Font Info:    ... okay on input line 265.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 265.
-LaTeX Font Info:    ... okay on input line 265.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 265.
-LaTeX Font Info:    ... okay on input line 265.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 265.
-LaTeX Font Info:    ... okay on input line 265.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 265.
-LaTeX Font Info:    ... okay on input line 265.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 265.
-LaTeX Font Info:    ... okay on input line 265.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 266.
+LaTeX Font Info:    ... okay on input line 266.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 266.
+LaTeX Font Info:    ... okay on input line 266.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 266.
+LaTeX Font Info:    ... okay on input line 266.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 266.
+LaTeX Font Info:    ... okay on input line 266.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 266.
+LaTeX Font Info:    ... okay on input line 266.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 266.
+LaTeX Font Info:    ... okay on input line 266.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count230
+\scratchcounter=\count231
 \scratchdimen=\dimen119
-\scratchbox=\box27
-\nofMPsegments=\count231
-\nofMParguments=\count232
-\everyMPshowfont=\toks16
-\MPscratchCnt=\count233
+\scratchbox=\box29
+\nofMPsegments=\count232
+\nofMParguments=\count233
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count266
 \MPscratchDim=\dimen120
-\MPnumerator=\count266
-\makeMPintoPDFobject=\count267
-\everyMPtoPDFconversion=\toks17
+\MPnumerator=\count267
+\makeMPintoPDFobject=\count268
+\everyMPtoPDFconversion=\toks19
 )
 Package biblatex Info: No input encoding detected.
 (biblatex)             Assuming 'ascii'.
@@ -417,15 +425,15 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (main.bbl)
-Package biblatex Info: Reference section=0 on input line 265.
-Package biblatex Info: Reference segment=0 on input line 265.
+Package biblatex Info: Reference section=0 on input line 266.
+Package biblatex Info: Reference segment=0 on input line 266.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 331.
+(Font)              <7> on input line 332.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 331.
+(Font)              <5> on input line 332.
 
 
-LaTeX Warning: Citation 'rondon89' on page 1 undefined on input line 378.
+LaTeX Warning: Citation 'rondon89' on page 1 undefined on input line 379.
 
 [1{C:/Users/francisco/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
@@ -434,10 +442,10 @@ LaTeX Warning: Citation 'rondon89' on page 1 undefined on input line 378.
 File: tromp.PNG Graphic file (type png)
 
 <use tromp.PNG>
-Package pdftex.def Info: tromp.PNG used on input line 403.
+Package pdftex.def Info: tromp.PNG used on input line 401.
 (pdftex.def)             Requested size: 256.0748pt x 144.35493pt.
 
-Overfull \hbox (3.02493pt too wide) in paragraph at lines 403--406
+Overfull \hbox (3.02493pt too wide) in paragraph at lines 401--404
  [][] 
  []
 
@@ -447,7 +455,7 @@ File: frenteexhi.PNG Graphic file (type png)
 Package pdftex.def Info: frenteexhi.PNG used on input line 414.
 (pdftex.def)             Requested size: 227.63101pt x 227.62436pt.
  [2 <./tromp.PNG> <./frenteexhi.PNG>]
-<tromp2.PNG, id=17, 497.2176pt x 399.6531pt>
+<tromp2.PNG, id=16, 497.2176pt x 399.6531pt>
 File: tromp2.PNG Graphic file (type png)
  <use tromp2.PNG>
 Package pdftex.def Info: tromp2.PNG used on input line 442.
@@ -458,13 +466,15 @@ Overfull \hbox (3.02493pt too wide) in paragraph at lines 442--445
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 607.
+(Font)              <8> on input line 662.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 607.
+(Font)              <6> on input line 662.
 Missing character: There is no â in font ptmri7t!
 Missing character: There is no € in font ptmri7t!
 Missing character: There is no ™ in font ptmri7t!
-[3 <./tromp2.PNG>] (main.aux)
+[3 <./tromp2.PNG>] [4
+
+] (main.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -476,20 +486,20 @@ Package biblatex Warning: Please (re)run Biber on the file:
 Package logreq Info: Writing requests to 'main.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
- 7580 strings out of 493673
- 130546 string characters out of 3141517
- 552900 words of memory out of 3000000
- 10874 multiletter control sequences out of 15000+200000
- 39835 words of font info for 73 fonts, out of 3000000 for 9000
+ 7642 strings out of 493673
+ 131357 string characters out of 3141517
+ 554259 words of memory out of 3000000
+ 10931 multiletter control sequences out of 15000+200000
+ 41559 words of font info for 75 fonts, out of 3000000 for 9000
  1028 hyphenation exceptions out of 8191
- 44i,6n,32p,1164b,912s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 44i,8n,32p,1237b,912s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publ
 ic/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files (x86)/Mi
 KTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Progr
 am Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (3 pages, 3376599 bytes).
+Output written on main.pdf (4 pages, 3378577 bytes).
 PDF statistics:
- 39 PDF objects out of 1000 (max. 8388607)
+ 42 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
